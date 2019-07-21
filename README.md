@@ -16,6 +16,8 @@ Electron (5.0.7)
 
 ## Install
 `npm install`
+`./node_modules/.bin/electron-rebuild  -f -w sqlite3`
+
 
 ##  Run 
 `npm run start:electron`
